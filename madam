@@ -1,0 +1,13 @@
+first we have to create repository
+after that created directory
+enter that directory
+then initialized with command git init
+open and create a file with vi command
+git status
+we use git add .
+check status
+then give Git commit -m ""
+git log --all --oneline --graph
+git remote add origin url
+git push origin branch name
+
