@@ -8,3 +8,6 @@ git status
 git commit -m ""
 git log
 git push origin branch name 
+then the process is completed
+then we check in remote repository in the given name
+
