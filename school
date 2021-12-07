@@ -1,0 +1,10 @@
+git pull is a command used to pull the file from repository
+check with ls -lrth 
+then git init
+open with a command vi filename 
+git status 
+git add .
+git status
+git commit -m ""
+git log
+git push origin branch name 
